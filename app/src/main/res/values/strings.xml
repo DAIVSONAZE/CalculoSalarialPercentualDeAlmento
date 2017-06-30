@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculo de Salario</string>
+    <string name="valorsalario">Digite o seu salário</string>
+    <string name="valorpercentual">Qual é o seu percentual?</string>
+    <string name="quarenta_porcent">40%</string>
+    <string name="quarentcinco_porcent">45%</string>
+    <string name="cinquent_porcent">50%</string>
+    <string name="btCalcSalario">Calcular Novo Salário</string>
+
+</resources>
